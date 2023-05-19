@@ -1,0 +1,35 @@
+body{
+    background-color: #3498db;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#div1
+{
+    border: 2px solid black;
+    background-color: white;
+    padding: 50px;
+    text-align: center;
+
+
+}
+input{
+    width : 200px;
+    margin: 10px 0px;
+    padding: 10px;
+}
+input[type= "submit"]
+{
+border: 0px;
+width : 222px;
+background-color: #3498db;
+color: whitesmoke;
+}
+.error
+{
+    margin: 0px;
+    color: red;
+    text-align: left;
+}
